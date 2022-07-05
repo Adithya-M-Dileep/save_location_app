@@ -1,16 +1,11 @@
 # save_location_app
 
-A new Flutter project.
+A Simple App to save the details of places you visit along with a image and location details using Flutter and SQLite(Local Storage).
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Add new places
+- Take a picture
+- Get the users Location Cordinates
+- Mark places using g-map (Not Added Yet)
+- Save the details in Local Storage using SQLite.
